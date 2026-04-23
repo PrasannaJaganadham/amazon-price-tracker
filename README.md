@@ -146,7 +146,7 @@ These are ideas I'd like to try when I have more time:
 I'm Prasanna, a student at Burgundy School of Business in Dijon, France. I'm doing a dual degree in Data Science and Management, and looking for Data Analyst or BI Developer roles in France and Europe starting June 2026.
 
 - Email: jaganadhamprasanna@gmail.com
-- LinkedIn: [https://www.linkedin.com/in/prasanna-jaganadham-190780228/]
+- LinkedIn:https://www.linkedin.com/in/prasanna-jaganadham-190780228/
 
 ---
 
